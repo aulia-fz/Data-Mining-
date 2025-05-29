@@ -1,4 +1,4 @@
 import streamlit as st
-
-st.set_page_config(page_title="Dasboard", page_icon=":shark:")
-st.sidebar.header["Dasboard"]
+st.set_page_config(page_title="Dasboard")
+st.title("Identitas")
+st.header["Saya Aulia Fitri Za'imah"]
